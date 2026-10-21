@@ -1,4 +1,4 @@
-Post: https://chon91.tistory.com/4
+Post: [한국어 글](https://chon91.tistory.com/4) | [한국어 글 (Velog)](https://velog.io/@tasklift/Claude-Code-%EC%9E%90%EB%8F%99-%ED%98%B8%EC%B6%9C-%EB%AC%B8%EB%A7%A5-4%EB%A7%8C900%ED%86%A0%ED%81%B0-%EC%8B%A4%EC%B8%A1%EA%B8%B0)
 
 # 2026-10-21-series-token_cut
 

@@ -1,4 +1,4 @@
-Post: (link will be added when the post goes public)
+Post: [Read the post (dev.to)](https://dev.to/tasklift/does-a-cloned-voice-stay-the-same-scoring-qwen3-tts-with-ecapa-39pd) | [Read the post (Medium)](https://medium.com/@tasklift/does-a-cloned-voice-stay-the-same-scoring-qwen3-tts-with-ecapa-8ed81c6ddaca)
 
 # 2026-10-21-harvest-voice_ecapa
 
