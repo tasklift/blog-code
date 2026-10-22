@@ -1,4 +1,4 @@
-Post: (link will be added when the post goes public)
+Post: [한국어 글](https://chon91.tistory.com/6)
 
 # 2026-10-21-evergreen-kwbcbc90
 

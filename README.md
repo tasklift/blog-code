@@ -37,7 +37,7 @@ python main.py
 - **[One-line intro length check for OG images](2026-10-21-harvest-dev-biz-landing-template-kit/)** - Length check for a one-line intro so it is not cut off in an OG image. In the post, the template kit passed all 6 hidden checks and the AI-reported count matched (6 of 6).
   _post link appears here once it is published_
 - **[A polite first web crawl with requests and BeautifulSoup](2026-10-21-evergreen-kwbcbc90/)** - Polite first crawl with requests and BeautifulSoup, runnable offline on a sample and live on a practice site. The offline check parses a 3-item sample; no performance numbers are claimed.
-  _post link appears here once it is published_
+  [한국어 글](https://chon91.tistory.com/6)
 
 ## Questions and links
 
